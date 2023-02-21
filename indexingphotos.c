@@ -1,3 +1,15 @@
+/* Creator : Yagmur Saygili / School Assigment
+
+ 	Main file where the program runs from
+	
+	Here taken from Node and AVLTree libraries( self created ), 
+    functions are used to manage more complex operations.
+
+    The program should be executed from the command line by giving
+    photos.txt like file given as a parameter
+
+    Example --> C:\Desktop > indexingphotos.exe photos.txt
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
