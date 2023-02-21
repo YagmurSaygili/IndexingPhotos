@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1610906904 source:c:\users\yagmu\desktop\cng213a3\indexingphotos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Node.h"
+	"AVLTree.h"
+
+1610898753 c:\users\yagmu\desktop\cng213a3\node.h
+	<stdio.h>
+	<stdlib.h>
+
+1610906236 c:\users\yagmu\desktop\cng213a3\avltree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
