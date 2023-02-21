@@ -1,3 +1,11 @@
+/* Creator : Yagmur Saygili / School Assigment
+
+ 	Self created library file to use modular approach
+	and make it easier to read or inspect the code later on.
+	
+	Here AVLTree consepts, functions and their declarations 
+	are defined.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
